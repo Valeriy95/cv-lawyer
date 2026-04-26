@@ -364,7 +364,7 @@ body {
     display: grid;
     /* grid-template-columns: 40% 40%; */
     justify-content: center;
-    padding: 40px 30px;
+    padding: 0px 30px;
     gap: 50px;
 }
 
