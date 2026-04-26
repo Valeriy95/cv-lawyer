@@ -444,6 +444,15 @@ body {
     cursor: pointer;
 }
 
+.experience__list {
+    padding-left: 80px;
+}
+
+.experience__item {
+    color: #181818;
+    text-align: justify;
+}
+
 @media screen and (max-width: 990px) {
 
     .header {
