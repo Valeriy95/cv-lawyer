@@ -445,11 +445,12 @@ body {
 }
 
 .experience__list {
-    padding-left: 80px;
+    padding-left: 20px;
 }
 
 .experience__item {
-    color: #181818;
+    padding-left: 5px;
+    color: #2d2d2d;
     text-align: justify;
 }
 
